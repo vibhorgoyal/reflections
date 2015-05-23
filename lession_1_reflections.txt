@@ -1,0 +1,7 @@
+How can you use the commands git log and git diff to view the history of files?
+ans:for git log:
+       git log
+       then q to quit.
+    for git diff:
+       git diff firtsid secondid 
+       then q to quit.
